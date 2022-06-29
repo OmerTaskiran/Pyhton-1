@@ -9,3 +9,4 @@ def calculator(a,b,string):
     print(a*b)
   elif string=="/":
     print(a/b)
+.
